@@ -1,0 +1,29 @@
+.first{
+
+Font-Style: Italic;
+Font-Size: 24px;
+Line-Height: 28px;
+Align: Center;
+Fill: Solid;
+    color: #000000;
+}
+
+.second{
+
+
+    Font-Style: Italic;
+    Font-Size: 24px;
+    Line-Height: 28px;
+    Align: Center;
+    Fill: Solid;
+    color: #000000;
+
+}
+
+P{
+    font-family: "Roboto Slab", "ff-tisa-web-pro", "Georgia", Arial, sans-serif;
+Font-Style: Italic;
+Font-Size: 28px;
+Align: Left;
+color: #000000;
+}
